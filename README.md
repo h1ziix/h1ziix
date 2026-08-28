@@ -148,27 +148,30 @@ I'm open to:
 
 <h2 align="center">🔗 Connect</h2>
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/h1ziix">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" height="38" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="52" height="52" alt="GitHub" align="middle">
 </a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://t.me/conf1denc">
-  <img src="https://cdn.simpleicons.org/telegram/FFFFFF" width="38" height="38" alt="Telegram"/>
+  <img src="https://cdn.simpleicons.org/telegram/FFFFFF" width="52" height="52" alt="Telegram" align="middle">
 </a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://my-portfolio-five-swart-53.vercel.app/">
-  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="38" height="38" alt="Portfolio"/>
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="52" height="52" alt="Portfolio" align="middle">
 </a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:toksozzsultan@icloud.com">
-  <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="38" height="38" alt="Email"/>
+  <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="52" height="52" alt="Email" align="middle">
 </a>
 
-</div>
+</p>
 
 <br>
