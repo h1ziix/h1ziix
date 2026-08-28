@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./f6c22b96dff53e8da5d9d4f5899f12b5.jpg" width="100%" alt="127.0.0.1 Banner">
+</p>
+
+<br>
 
 # Hey, I'm Sultan 👋
 
