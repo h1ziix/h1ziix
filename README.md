@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./header.jpg" width="100%" alt="Sultan GitHub Header">
+</p>
+
+<br>
+
 # Hey, I'm Sultan 👋
 
 ### Full-stack Developer · Automation · AI · Product Engineering
