@@ -1,26 +1,4 @@
-<div align="center">
 
-<pre>
-       ⣀⣤⣤⣶⣶⣶⣶⣤⣤⣄
-    ⣀⣶⣿⣿⣿⠿⠿⠛⠛⠿⠿⣿⣿⣿⣶⣄
-  ⢀⣾⣿⣿⠟⠁        ⠙⠻⣿⣿⣷⣄
- ⢠⣿⣿⠟⠁ ⣀⣀      ⣀⣀ ⠈⢻⣿⣿⣆
-⢠⣿⣿⠏   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   ⢻⣿⣿⡆
-⣼⣿⣿   ⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆   ⣿⣿⣿
-⣿⣿⡇   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇   ⣿⣿⣿
-⢻⣿⣿   ⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃  ⢀⣿⣿⣿
-⠸⣿⣿⣧ ⠰⣄ ⠉⠛⣿⣿⣿⣿⠛⠉    ⣾⣿⣿⡏
- ⠹⣿⣿⣧⡀⠘⠷⣶⣾⣿⣿⣿⣿    ⣠⣾⣿⣿⡟
-  ⠙⢿⣿⣿⣦⣄⡀⢸⣿⣿⣿⣿⡀⣀⣠⣾⣿⣿⣿⠏
-    ⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁
-      ⠈⠙⠛⠿⢿⣿⣿⣿⠿⠟⠛⠉
-</pre>
-
-<h2>Hi 👋, I'm Sultan</h2>
-
-<b>Full-stack Developer · Automation · AI</b>
-
-</div>
 # Hey, I'm Sultan 👋
 
 ### Full-stack Developer · Automation · AI · Product Engineering
