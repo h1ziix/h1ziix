@@ -146,11 +146,29 @@ I'm open to:
 - AI integrations
 - technical problem solving
 
-🌐 [Portfolio](https://my-portfolio-five-swart-53.vercel.app/)  
-⚙️ [GitHub](https://github.com/h1ziix)  
-💬 Telegram: [@conf1denc](https://t.me/conf1denc)  
-📧 toksozzsultan@icloud.com
+<h2 align="center">🔗 Connect</h2>
 
----
+<div align="center">
 
-### ⚡ Building useful systems, not just writing code.
+<a href="https://github.com/h1ziix">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" height="38" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://t.me/conf1denc">
+  <img src="https://cdn.simpleicons.org/telegram/FFFFFF" width="38" height="38" alt="Telegram"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://my-portfolio-five-swart-53.vercel.app/">
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="38" height="38" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:toksozzsultan@icloud.com">
+  <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="38" height="38" alt="Email"/>
+</a>
+
+</div>
+
+<br>
