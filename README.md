@@ -148,30 +148,11 @@ I'm open to:
 
 <h2 align="center">🔗 Connect</h2>
 
-<p align="center">
-
-<a href="https://github.com/h1ziix">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="52" height="52" alt="GitHub" align="middle">
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://t.me/conf1denc">
-  <img src="https://cdn.simpleicons.org/telegram/FFFFFF" width="52" height="52" alt="Telegram" align="middle">
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://my-portfolio-five-swart-53.vercel.app/">
-  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="52" height="52" alt="Portfolio" align="middle">
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:toksozzsultan@icloud.com">
-  <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="52" height="52" alt="Email" align="middle">
-</a>
-
-</p>
+<div align="center">
+<a href="https://github.com/h1ziix"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/conf1denc"><img src="https://cdn.simpleicons.org/telegram/FFFFFF" width="48" alt="Telegram"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://my-portfolio-five-swart-53.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="48" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:toksozzsultan@icloud.com"><img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="48" alt="Email"></a>
+</div>
 
 <br>
