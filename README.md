@@ -1,7 +1,7 @@
 # Toksoz Sultan
 
 <p align="center">
-  <img width="420" alt="Toksoz Sultan — 127.0.0.1" src="./f6c22b96dff53e8da5d9d4f5899f12b5.jpg" />
+  <img width="100%" alt="Toksoz Sultan — Full-Stack & AI Product Engineer" src="./banner.png" />
 </p>
 
 <p align="center"><sub><em>
